@@ -6,8 +6,8 @@ The "GPT Control Enter" Chrome extension modifies certain default behaviors on `
 
 ## Current Functionalities
 
-- Pressing the Enter key within a form element, such as a text area or text input, will insert a new line.
-- Using Ctrl+Enter (or Cmd+Enter on a Mac) within a form element will submit the form.
+- Pressing the Enter key within the chat area will insert a new line, overriding the default behavior of submitting the message.
+- Using Ctrl+Enter (or Cmd+Enter on a Mac) within a form element will submit the message.
 
 ## Installation
 
