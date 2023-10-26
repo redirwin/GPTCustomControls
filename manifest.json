@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "GPT Custom Controls",
   "version": "1.0",
-  "description": "Custom controls for chat.openai.com.",
+  "description": "Custom controls for ChatGPT.",
   "permissions": ["activeTab"],
   "content_scripts": [
     {

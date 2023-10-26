@@ -4,6 +4,8 @@
 
 The "GPT Control Enter" Chrome extension modifies certain default behaviors on `chat.openai.com`. Designed to make your chatting experience more efficient, this extension provides the following functionalities:
 
+## Current Functionalities
+
 - Pressing the Enter key within a form element, such as a text area or text input, will insert a new line.
 - Using Ctrl+Enter (or Cmd+Enter on a Mac) within a form element will submit the form.
 
