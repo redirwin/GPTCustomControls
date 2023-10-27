@@ -6,8 +6,14 @@ The "GPT Control Enter" Chrome extension modifies certain default behaviors on `
 
 ## Current Functionalities
 
+### Message Submission
 - Pressing the Enter key within the chat area will insert a new line, overriding the default behavior of submitting the message.
 - Using Ctrl+Enter (or Cmd+Enter on a Mac) within a form element will submit the message.
+
+### Temporary Storage
+- The extension automatically saves your text in the chat area to localStorage with every keystroke.
+- On reloading the page, the saved text will be populated into the chat area.
+- If the first keystroke after the page reload is a 'Delete' or 'Backspace', the saved text will be removed.
 
 ## Installation
 
