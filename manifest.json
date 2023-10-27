@@ -1,13 +1,16 @@
 {
   "manifest_version": 3,
-  "name": "GPT Custom Controls",
+  "name": "Prevent Textarea Submit",
   "version": "1.0",
-  "description": "Custom controls for ChatGPT.",
+  "description": "Prevents form submission when Enter is pressed in a textarea.",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
-      "matches": ["*://chat.openai.com/*"],
-      "js": ["content.js"]
+      "matches": ["<all_urls>"],
+      "js": [
+        "scripts/preventTextareaSubmitOnEnter.js",
+        "scripts/autoSaveTextareaContent.js"
+      ]
     }
   ]
 }
