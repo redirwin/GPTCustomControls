@@ -24,4 +24,4 @@ This Chrome extension modifies certain default behaviors on `chat.openai.com`, m
 
 ## Usage
 
-Once installed, navigate to `chat.openai.com`. The extension will automatically apply the custom key behaviors within form elements on this domain.
+Once installed, navigate to `chat.openai.com`. The extension will automatically apply the custom key behaviors.
