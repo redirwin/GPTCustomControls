@@ -8,7 +8,7 @@ This Chrome extension modifies certain default behaviors on `chat.openai.com`, m
 
 ### Message Submission
 - Pressing the Enter key within the chat area will insert a new line, overriding the default behavior of submitting the message.
-- Using Ctrl+Enter (or Cmd+Enter on a Mac) within a form element will submit the message.
+- Using Ctrl+Enter (or Cmd+Enter on a Mac) within the chat element will submit the message.
 
 ### Temporary Storage
 - The extension automatically saves your text in the chat area to localStorage with every keystroke.
