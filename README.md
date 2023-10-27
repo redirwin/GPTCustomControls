@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "GPT Control Enter" Chrome extension modifies certain default behaviors on `chat.openai.com`. Designed to make your chatting experience more efficient, this extension provides the following functionalities:
+The "GPT Custom Controls" Chrome extension modifies certain default behaviors on `chat.openai.com`, making the chatting experience more efficient. 
 
 ## Current Functionalities
 
