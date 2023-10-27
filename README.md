@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "GPT Custom Controls" Chrome extension modifies certain default behaviors on `chat.openai.com`, making the chatting experience more efficient. 
+This Chrome extension modifies certain default behaviors on `chat.openai.com`, making the chatting experience more efficient. 
 
 ## Current Functionalities
 
