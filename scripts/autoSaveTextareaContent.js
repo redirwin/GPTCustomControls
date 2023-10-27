@@ -1,5 +1,7 @@
 function autoSaveTextareaContent() {
   let firstKeystroke = true;
+  const form = document.querySelector("form"); 
+  console.log(form)
 
   const intervalId = setInterval(() => {
     const textarea = document.querySelector("textarea");
